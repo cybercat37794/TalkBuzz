@@ -1,5 +1,5 @@
 # TalkBuzz
-A web based chatting website for everyone
+A friendly chatting website for everyone
 
 # Software needed (server)
 1. XAMPP 
